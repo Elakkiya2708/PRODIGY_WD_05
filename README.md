@@ -34,7 +34,7 @@ A dynamic and user-friendly weather web application built using HTML, CSS, and J
 ---
 
 ## 🌐 Live Demo
-> [Live Demo Link](https://your-username.github.io/PRODIGY_WD_05)
+> https://elakkiya2708.github.io/PRODIGY_WD_05/
 
 ---
 
